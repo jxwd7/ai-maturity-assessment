@@ -1,0 +1,2 @@
+# This file is used to list Python package dependencies.
+# Currently, this project has no external dependencies beyond the Python standard library.
